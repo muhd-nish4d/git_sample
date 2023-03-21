@@ -5,5 +5,3 @@ my brother shahid and hashim
 
 git conflix second add
 now conflict
-
-after server push first edit
